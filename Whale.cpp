@@ -25,8 +25,7 @@ int main() {
 
 //printing the vowels
     for (int f = 0; f < result.size(); f++) {
-        std::cout << result[f];
+        std::cout << result[f];   
     }
-
 
 }//end of main()
